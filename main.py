@@ -24,7 +24,7 @@ Text.default_resolution = 1080 * Text.size
 # Window
 
 app = Ursina()
-window.title = "Need For Driver"
+window.title = "Tenacithon"
 window.borderless = False
 window.show_ursina_splash = True
 window.cog_button.disable()
